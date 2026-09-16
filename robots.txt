@@ -1,0 +1,5 @@
+# 2026-09-02: команда на запуск получена, индексация открыта.
+User-agent: *
+Allow: /
+
+Sitemap: https://marinaspeaksrp.org/sitemap.xml
